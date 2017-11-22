@@ -1,3 +1,6 @@
+//Coseno de .15
+//Edgar Castro Aldana
+//22 de noviembre de 2017
 #include <iostream> 
 # include <math.h> 
 using namespace std; 
